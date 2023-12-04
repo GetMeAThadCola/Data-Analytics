@@ -1,1 +1,3 @@
-# **THIS REPOSITORY HAS ALL THE DATA ANALYSIS PROJECTS I HAVE WORKED ON.**
+# **These are my Data Analytics Projects. 📈 **
+
+## Most of these were completed through Google's Coursera Course in this field. 🔎 
